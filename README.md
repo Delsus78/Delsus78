@@ -30,14 +30,12 @@
 
 
 &emsp;
-<p align="center"> 
-    <a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/">
-        ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
-    </a>
-    <a href="https://github.com/Delsus78">
-        ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus78?label=follow&logo=GitHub&style=for-the-badge)
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/" align="center">
+    ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
+</a>
+<a href="https://github.com/Delsus78" align="center">
+    ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus78?label=follow&logo=GitHub&style=for-the-badge)
+</a>
 
 &emsp;
 
