@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h2 align="center">Create better than play.</h2>
+<h2 align="center">Creating better than playing.</h2>
 
 
 -------------------
@@ -29,7 +29,10 @@ My main hobies is programming little soft and games around the web. I love share
     ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Delsus78">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/Delsus?label=follow&style=social)
+    ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus?label=follow&style=social)
+</a>
+<a href="https://pornhub.com/Delsus">
+    ![GitHub: Delsus](https://img.shields.io/pornhub/followers/Delsus?label=follow&style=social)
 </a>
 
 &emsp;
