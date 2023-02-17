@@ -4,8 +4,8 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Anthony, Full stack engineer based in Paris. I have extensive experience working in agile environment on several projects as a full stack engineer.
-My main hobies is programming little soft and games around the web. I love share things i've created.</h3>
+<h3 align="left">Hi 👋, I'm Anthony, Full stack engineer based in Paris. I have working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">My main hobies is programming little soft and games around the web. I love share things i've created.</h3>
 &emsp;
 
 -------------------
