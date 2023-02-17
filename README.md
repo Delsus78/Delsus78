@@ -18,8 +18,13 @@
 
 - 🌱 I’m currently learning **MongoDB, Linux System and Discord Bot API**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> 
+</p>
+
 &emsp;
+
+
 ## Me around the web:
 -------------------
 
