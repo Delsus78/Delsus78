@@ -39,7 +39,7 @@ My main hobies is programming little soft and games around the web. I love share
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=007ACC)
 ![CSharp](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=CSharp)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java)
