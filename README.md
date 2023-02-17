@@ -24,7 +24,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/">
-    ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-Anthony Paboeuf-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Delsus78">
     ![GitHub: berkeli](https://img.shields.io/github/followers/Delsus?label=follow&style=social)
