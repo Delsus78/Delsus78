@@ -38,35 +38,35 @@ My main hobies is programming little soft and games around the web. I love share
 -------------------
 ### Programming languages:
 &emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![CSharp](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=CSharp)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java)
 ### Frontend development:
 &emsp;
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=Vue)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=Angular)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?style=for-the-badge&logo=Material-UI)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
 ### Misc tools:
 &emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?&logo=Intellij-IDEA)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=Visual-Studio-Code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=Visual-Studio-Code)
+![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?style=for-the-badge&logo=Intellij-IDEA)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 
 ### Databases:
 &emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL)
 
 
 &emsp;
