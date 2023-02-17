@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h2 align="center">Creating is better than playing.</h2>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> </p>
 
 -------------------
 &emsp;
@@ -14,7 +14,6 @@
 <img alt="Delsus78's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Delsus78&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Delsus78's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delsus78&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=flat" alt="Delsus" /> </p>
 - 🔭 I’m currently working on [Team UNC](https://github.com/UNCTeam) for minecraft plugin event conception and development as a hobby.
 - 📚 I'm also studying at [EFREI Paris](https://www.efrei.fr/) for my digital engineering degree.
 
