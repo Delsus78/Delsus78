@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
+<h2 align="center">Create better than play.</h2>
 
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Anthony, Full stack engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I'm Anthony, Full stack engineer based in Paris. I have extensive experience working in agile environment on several projects as a full stack engineer.
+My main hobies is programming little soft and games around the web. I love share things i've created.</h3>
 &emsp;
 
 -------------------
@@ -43,33 +45,22 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ### Frontend development:
 &emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?&logo=Intellij-IDEA)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
-
 
 ### Databases:
 &emsp;
