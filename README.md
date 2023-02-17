@@ -10,7 +10,7 @@ My main hobies is programming little soft and games around the web. I love share
 
 -------------------
 &emsp;
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=flat" alt="Delsus" /> </p>
 - 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
 - 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
@@ -30,9 +30,6 @@ My main hobies is programming little soft and games around the web. I love share
 </a>
 <a href="https://github.com/Delsus78">
     ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus?label=follow&style=social)
-</a>
-<a href="https://pornhub.com/Delsus">
-    ![GitHub: Delsus](https://img.shields.io/pornhub/followers/Delsus?label=follow&style=social)
 </a>
 
 &emsp;
@@ -61,6 +58,7 @@ My main hobies is programming little soft and games around the web. I love share
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?&logo=Intellij-IDEA)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
