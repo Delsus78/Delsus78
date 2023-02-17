@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h2 align="center">Creating is better than playing.</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> </p>
 
 -------------------
 &emsp;
@@ -11,7 +10,7 @@
 -------------------
 &emsp;
 
-<img alt="Delsus78's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Delsus78&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Delsus78's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delsus78&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Delsus78's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Delsus78&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" height="192px"/><img alt="Delsus78's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delsus78&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" height="192px"/>
 
 
 - 🔭 I’m currently working on [Team UNC](https://github.com/UNCTeam) for minecraft plugin event conception and development as a hobby.
@@ -26,8 +25,9 @@
 
 
 &emsp;
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> </p>
 <a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/">
-    ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Delsus78">
     ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus?label=follow&style=social)
@@ -76,7 +76,7 @@
 
 ### 🔥 Streak Stats
 
-![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight)
+![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
 
 ### 📊 Contribution Stats
 
