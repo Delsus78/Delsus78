@@ -20,17 +20,29 @@
 
 &emsp;
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> </p>
 ## Me around the web:
 -------------------
 
-
 &emsp;
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> </p>
 <a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/">
     ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Delsus78">
     ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus?label=follow&style=social)
+</a>
+
+<a href="https://www.linkedin.com/in/berkeli/">
+    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+</a>
+<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
+    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+</a>
+<a href="https://www.instagram.com/halmyradov/">
+    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+</a>
+<a href="https://github.com/berkeli">
+    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
 </a>
 
 &emsp;
