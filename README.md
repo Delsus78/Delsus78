@@ -10,7 +10,7 @@
 -------------------
 &emsp;
 
-<img alt="Delsus78's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Delsus78&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Delsus78's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delsus78&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+[![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on [Team UNC](https://github.com/UNCTeam) for minecraft plugin event conception and development as a hobby.
