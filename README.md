@@ -64,7 +64,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=Visual-Studio-Code)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=Visual-Studio-Code)
 ![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?style=for-the-badge&logo=Intellij-IDEA)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 
