@@ -58,18 +58,21 @@
 &emsp;
 ![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
-![React]([http](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react))
-![ASP .NET]([http](https://img.shields.io/badge/-ASPNETCORE-000?style=for-the-badge&logo=dotnet))
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![ASP .NET](https://img.shields.io/badge/-ASPNETCORE-000?style=for-the-badge&logo=dotnet)
+![Spring boot](https://img.shields.io/badge/-Spring_boot-000?style=for-the-badge&logo=spring)
 
 ### Misc tools
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=GitLab)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?style=for-the-badge&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
+![Spigot/Paper MC](https://img.shields.io/badge/-Spigot/PaperMC-000?style=for-the-badge&logo=chainlink&logoColor=green)
+![MinecraftDataPack](https://img.shields.io/badge/-datapack_MC-000?style=for-the-badge&logo=chainlink&logoColor=green)
 
 ### IDE
 &emsp;
@@ -90,10 +93,10 @@
 
 ![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
 
-### 📊 Contribution Stats
+### 📊 Top langugage
 
-<img alt="Delsus's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Delsus78&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delsus78)](https://github.com/delsus78/delsus78)
 
 ------
-Credit: [Delsus](https://github.com/Delsus)
+Credit: [anuraghazra](https://github.com/anuraghazra)
 Last Edited on: 02/01/2023
