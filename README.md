@@ -40,34 +40,43 @@
 &emsp;
 
 ## 🛠️ My Skills
--------------------
-### Programming languages:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Programming languages
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=007ACC)
 ![CSharp](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=CSharp)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java)
-### Frontend development:
-&emsp;
-![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=Vue)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=Angular)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?style=for-the-badge&logo=Material-UI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
-### Misc tools:
+![Terraform](https://img.shields.io/badge/-TERRAFORM-000?style=for-the-badge&logo=Terraform)
+
+### Framework
+&emsp;
+![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+![React]([http](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react))
+![ASP .NET]([http](https://img.shields.io/badge/-ASPNETCORE-000?style=for-the-badge&logo=dotnet))
+
+### Misc tools
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=Visual-Studio-Code)
-![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?style=for-the-badge&logo=Intellij-IDEA)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 
-### Databases:
+### IDE
+&emsp;
+![Visual Studio/Code](https://img.shields.io/badge/-VisualStudio-000?style=for-the-badge&logo=Visual-Studio)
+![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20-000?style=for-the-badge&logo=Intellij-IDEA)
+
+### Databases
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL)
