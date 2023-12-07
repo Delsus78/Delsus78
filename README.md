@@ -39,9 +39,9 @@
 &emsp;
 
 Creator of web-games 
-![Skills Sellers](https://skills-sellers.fr)
-![SWITSTIGPTY](https://swistigpty.team-unc.fr)
-![PlayList Game](https://playlistgame.team-unc.fr) CURRENTLY OFF
+[Skills Sellers](https://skills-sellers.fr)
+[SWITSTIGPTY](https://swistigpty.team-unc.fr)
+[PlayList Game](https://playlistgame.team-unc.fr) CURRENTLY OFF
 
 
 Creator of multiple Minecraft Java plugins
