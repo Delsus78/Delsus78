@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Team UNC](https://github.com/UNCTeam) for minecraft plugin event conception and development as a hobby.
 - 📚 I'm also studying at [EFREI Paris](https://www.efrei.fr/) for my digital engineering degree.
 
-- 🌱 I’m currently learning **MongoDB, Linux System and Discord Bot API**
+- 🌱 I’m currently learning **MongoDB and Discord Bot API**
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> 
@@ -36,8 +36,17 @@
 <a href="https://github.com/Delsus78" align="center">
     ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus78?label=follow&logo=GitHub&style=for-the-badge)
 </a>
-
 &emsp;
+
+Creator of web-games 
+![Skills Sellers](https://skills-sellers.fr)
+![SWITSTIGPTY](https://swistigpty.team-unc.fr)
+![PlayList Game](https://playlistgame.team-unc.fr) CURRENTLY OFF
+
+
+Creator of multiple Minecraft Java plugins
+
+Main Organisator and projects chief of Team UNC, a group of Minecraft Events and Unity game developers, available for any project !
 
 ## 🛠️ My Skills
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -61,6 +70,7 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![ASP .NET](https://img.shields.io/badge/-ASPNETCORE-000?style=for-the-badge&logo=dotnet)
 ![Spring boot](https://img.shields.io/badge/-Spring_boot-000?style=for-the-badge&logo=spring)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=Express)
 
 ### Misc tools
 &emsp;
@@ -83,7 +93,7 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
 
 &emsp;
 
