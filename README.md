@@ -76,6 +76,7 @@ Main Organisator and projects chief of Team UNC, a group of Minecraft Events and
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
+![GitHub Actions](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github_Actions)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=GitLab)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?style=for-the-badge&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
