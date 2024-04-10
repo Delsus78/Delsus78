@@ -1,55 +1,51 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h2 align="center">Creating is better than playing.</h2>
+<h3 align="center">Looking for an international internship in July 2024 !</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+&emsp;
+<h3 align="center">Hi 👋, I'm Anthony, Full stack engineer based in France.</h3>
+<h3 align="center">My main hobby is programming software and web games. I like to share the things I've created.</h3>
+&emsp;
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Anthony, Full stack engineer based in Paris. I have working in agile environment on several projects as a full stack engineer.</h3>
-<h3 align="left">My main hobbies is programming little soft and games around the web. I love share things i've created.</h3>
-&emsp;
 
--------------------
-&emsp;
+![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)
+![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
 
-[![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 🔭 I’m currently working on [Team UNC](https://github.com/UNCTeam) for minecraft plugin event conception and development as a hobby.
+- 🔭 I’m currently working at [Wittym](https://www.wittym.com/) as a fullstack main engineer developer.
 - 📚 I'm also studying at [EFREI Paris](https://www.efrei.fr/) for my digital engineering degree.
-
-- 🌱 I’m currently learning **MongoDB and Discord Bot API**
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> 
-</p>
+- I’m also working on [Team UNC](https://github.com/UNCTeam) for game event conception and development as a hobby.
+- 🌱 I’m currently learning **Unity Clean code development and CI/CD using Github Actions !**
 
 &emsp;
-
 
 ## Me around the web:
 -------------------
-
-
+<div align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Delsus78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Delsus" /> 
+    <a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/" align="center">
+        <img src="https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin: Anthony Paboeuf" />
+    </a>
+    <a href="https://github.com/Delsus78" align="center">
+        <img src="https://img.shields.io/github/followers/Delsus78?label=follow&logo=GitHub&style=for-the-badge" alt="GitHub: Delsus" />
+    </a>
+</div>
 &emsp;
-<a href="https://www.linkedin.com/in/anthony-paboeuf-041b25209/" align="center">
-    ![Linkedin: Anthony Paboeuf](https://img.shields.io/badge/-AnthonyPaboeuf-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
-</a>
-<a href="https://github.com/Delsus78" align="center">
-    ![GitHub: Delsus](https://img.shields.io/github/followers/Delsus78?label=follow&logo=GitHub&style=for-the-badge)
-</a>
-&emsp;
 
-Creator of web-games 
+## My Main web-based projects
 [Skills Sellers](https://skills-sellers.fr)
 [SWITSTIGPTY](https://swistigpty.team-unc.fr)
 [PlayList Game](https://playlistgame.team-unc.fr)
 
-
-Creator of multiple Minecraft Java plugins
-
+### Creator of multiple Minecraft Java plugins
 Main Organisator and projects chief of Team UNC, a group of Minecraft Events and Unity game developers, available for any project !
 
 ## 🛠️ My Skills
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/delsus78">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsus78" alt="Top Langs"/>
+</a>
 
 ### Programming languages
 &emsp;
@@ -98,16 +94,6 @@ Main Organisator and projects chief of Team UNC, a group of Minecraft Events and
 
 &emsp;
 
-## 📈 My GitHub Stats and Activity
-
-### 🔥 Streak Stats
-
-![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
-
-### 📊 Top langugage
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delsus78)](https://github.com/delsus78/delsus78)
-
 ------
 Credit: [anuraghazra](https://github.com/anuraghazra)
-Last Edited on: 21/07/2023
+Last Edited on: 10/04/2024
