@@ -14,10 +14,10 @@
 ![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)
 ![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working at [Wittym](https://www.wittym.com/) as a fullstack main engineer developer.
-- 📚 I'm also studying at [EFREI Paris](https://www.efrei.fr/) for my digital engineering degree.
+- 🔭 I’m currently working at [Davidson](https://www.davidson.fr/) as a consultant engineer developer.
+- 📚 I've studied at [EFREI Paris](https://www.efrei.fr/) for my digital engineering degree.
 - I’m also working on [Team UNC](https://github.com/UNCTeam) for game event conception and development as a hobby.
-- 🌱 I’m currently learning **Unity Clean code development and CI/CD using Github Actions !**
+- 🌱 I’m currently learning **Unity Clean code development and Clean Architecture in ASP NET CORE**
 
 &emsp;
 
