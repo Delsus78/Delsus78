@@ -11,10 +11,9 @@
 -------------------
 &emsp;
 
-<div align="center">
-    ![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)
-    ![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
-</div>
+![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)
+![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
+
 
 - 🔭 I’m currently working at [Davidson](https://www.davidson.fr/) as a consultant engineer developer.
 - 📚 I've studied at [EFREI Paris](https://www.efrei.fr/) for my digital engineering degree.
