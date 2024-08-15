@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h2 align="center">Creating is better than playing.</h2>
-<h3 align="center">Looking for an international internship in July 2024 !</h3>
+<h3 align="center">Working At Davidson Consulting !</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 &emsp;
