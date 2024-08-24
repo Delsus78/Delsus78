@@ -18,7 +18,7 @@
 
 <a href="#">
     <img height=250 align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=delsus78&include_all_commits=true&theme=tokyonight&hide_border=true" />
+        src="https://github-readme-stats.vercel.app/api?username=delsus78&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/delsus78">
     <img height=250 align="center" 
@@ -46,20 +46,20 @@
 
 ## My Main web-based projects
 <a href="https://github.com/delsus78/LittleConqueror">
-    <img height=100 align="center" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=LittleConqueror" />
+    <img height=125 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=LittleConqueror&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/delsus78/skills-sellers">
-    <img height=100 align="center" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=skills-sellers" />
+    <img height=125 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=skills-sellers&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/delsus78/LittleConqueror_web">
-    <img height=100 align="center" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=LittleConqueror_web" />
+    <img height=125 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=LittleConqueror_web&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Delsus78/skills-sellers-web">
-    <img height=100 align="center" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=skills-sellers-web" />
+    <img height=125 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=skills-sellers-web&theme=tokyonight&hide_border=true" />
 </a>
 
 &emsp;
