@@ -12,11 +12,15 @@
 &emsp;
 
 <a href="#">
-    <img height=200 align="center" 
+    <img height=250 align="center" 
         src="https://github-readme-stats.vercel.app/api?username=delsus78&include_all_commits=true&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/delsus78">
+    <img height=250 align="center" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsus78&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+</a>
 <a href="#">
-    <img height=200 align="center" 
+    <img height=334 align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -50,9 +54,6 @@
 Main Organisator and projects chief of Team UNC, a group of Minecraft Events and Unity game developers, available for any project !
 
 ## 🛠️ My Skills
-<a href="https://github.com/delsus78">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsus78" alt="Top Langs"/>
-</a>
 
 ### Programming languages
 &emsp;
