@@ -46,6 +46,23 @@
 &emsp;
 
 ## My Main web-based projects
+<a href="https://github.com/delsus78/LittleConqueror">
+    <img height=100 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=LittleConqueror" />
+</a>
+<a href="https://github.com/delsus78/skills-sellers">
+    <img height=100 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=skills-sellers" />
+</a>
+<a href="https://github.com/delsus78/LittleConqueror_web">
+    <img height=100 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=LittleConqueror_web" />
+</a>
+<a href="https://github.com/Delsus78/skills-sellers-web">
+    <img height=100 align="center" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Delsus78&repo=skills-sellers-web" />
+</a>
+
 [Skills Sellers](https://skills-sellers.fr)
 [SWITSTIGPTY](https://swistigpty.team-unc.fr)
 [PlayList Game](https://playlistgame.team-unc.fr)
