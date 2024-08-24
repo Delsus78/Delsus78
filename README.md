@@ -11,8 +11,14 @@
 -------------------
 &emsp;
 
-![Delsus's GitHub stats](https://github-readme-stats.vercel.app/api?username=delsus78)
-![Delsus's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true)
+<a href="#">
+    <img height=200 align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=delsus78&include_all_commits=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="#">
+    <img height=200 align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Delsus78&theme=tokyonight&hide_border=true" />
+</a>
 
 
 - 🔭 I’m currently working at [Davidson](https://www.davidson.fr/) as a consultant engineer developer.
